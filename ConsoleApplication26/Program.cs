@@ -9,7 +9,7 @@ namespace ConsoleApplication26
     class Program
     {
         static int Main(string[] args) {
-            return 1;
+            return 10;
 
         }
 
