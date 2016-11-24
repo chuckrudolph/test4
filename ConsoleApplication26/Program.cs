@@ -9,11 +9,11 @@ namespace ConsoleApplication26
     class Program
     {
         static int Main(string[] args) {
-            return 3;
+            return 4;
 
         }
 
-        void int newMethod() {
+        int newMethod() {
             return 5;
         }
     }
