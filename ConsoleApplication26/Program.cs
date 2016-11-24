@@ -9,15 +9,8 @@ namespace ConsoleApplication26
     class Program
     {
         static int Main(string[] args) {
-<<<<<<< HEAD
-            return 8;
-=======
-            return 5;
->>>>>>> return 5 with item1
+            return 0;
 
-        }
-        bool NewMethod() {
-            return false;
         }
     }
 }
