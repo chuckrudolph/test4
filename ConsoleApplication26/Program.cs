@@ -12,5 +12,9 @@ namespace ConsoleApplication26
             return 0;
 
         }
+
+        void int newMethod() {
+            return 5;
+        }
     }
 }
