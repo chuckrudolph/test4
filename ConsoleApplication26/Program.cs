@@ -17,6 +17,8 @@ namespace ConsoleApplication26
     class Program
     {
         static int Main(string[] args) {
+            //this is a test 
+
             //do this once
             //log4net.Config.XmlConfigurator.Configure();
             //OR put this attribute someplace, 
